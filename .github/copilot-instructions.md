@@ -1,0 +1,5 @@
+- Add comments for every new function, class, or complex code block to explain its purpose and functionality.
+- Use descriptive variable and function names to enhance code readability and maintainability.
+- Follow consistent coding conventions and style guidelines to ensure uniformity across the codebase.
+- For every new file Add creation date time and author information in the comments for better tracking and accountability.
+- When writing code, consider edge cases and error handling to make the code more robust and reliable.
